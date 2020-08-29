@@ -1,0 +1,1 @@
+ Change swipe_creen Line 177 to crusherid
